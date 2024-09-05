@@ -1,0 +1,18 @@
+body {
+  background: #333;
+}
+
+.clock {
+  font-size: 4em;
+  text-align: center;
+  margin: 20px auto;
+  color: yellow;
+  font-family: arial;
+  align-item: center;
+  height: 100vh;
+}
+
+.clock span {
+  padding: 20px;
+  background: #444;
+}
